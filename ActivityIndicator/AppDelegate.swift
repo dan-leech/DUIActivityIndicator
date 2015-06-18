@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ActivityIndicator
 //
-//  Created by Admin on 18.06.15.
-//  Copyright (c) 2015 dd.kostin. All rights reserved.
+//  Created by dan-leech on 18.06.15.
+//  Copyright (c) 2015 Daniil Kostin. All rights reserved.
 //
 
 import UIKit
